@@ -9,5 +9,5 @@ st.write("""
 Hello *world!*
 """)
 
-df = pd.read_csv("dataset/exoTest.csv")
-st.line_chart(df)
+# df = pd.read_csv("dataset/exoTest.csv")
+# st.line_chart(df)
